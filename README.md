@@ -214,7 +214,7 @@ Como evolução do projeto, poderiam ser implementadas as seguintes melhorias:
 * aplicação de técnicas de data augmentation;
 * centralização e alinhamento automático dos dígitos;
 * utilização de imagens manuscritas com maior diversidade;
-* calibração das probabilidades dos modelos;
+* maior calibração das probabilidades dos modelos;
 * utilização de técnicas de detecção de dados fora da distribuição (OOD);
 * criação de uma interface para classificação de novos dígitos;
 * disponibilização do modelo por meio de uma API;
@@ -228,15 +228,21 @@ O desenvolvimento foi realizado utilizando Git e GitHub, adotando uma estratégi
 
 * `main`
 * `develop`
-* `feature/fase-4`
-* `feature/fase-5`
+* `feature/fase-*
 
-As funcionalidades foram desenvolvidas em branches específicas e posteriormente integradas à branch `develop`.
+As funcionalidades foram desenvolvidas em branches específicas e posteriormente integradas à branch `develop` e posteriormente a `main`.
 
 Ao final do projeto, a versão final foi integrada à branch `master`.
 
 ---
 
+# Vídeo de Demonstração
+
+Link:
+
+```text
+https://drive.google.com/file/d/1xr-TEGWb1TSgndaPy-DrWsXt1zxowWEm/view?usp=drive_link
+```
 
 # Autor
 
